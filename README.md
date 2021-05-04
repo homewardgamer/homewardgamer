@@ -1,4 +1,4 @@
-## <img src="https://github.com/homewardgamer/homewardgamer/blob/main/header.pngr">
+## <img src="https://github.com/homewardgamer/homewardgamer/blob/main/header.png">
 
 
 ### Languages and Tools:
