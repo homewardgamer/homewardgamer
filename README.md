@@ -1,4 +1,4 @@
-## <img src="https://github.com/homewardgamer/homewardgamer/blob/main/203575.jpg">
+## Hey! I am Aditya.
 
 
 ### Languages and Tools:
