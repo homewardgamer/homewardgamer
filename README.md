@@ -1,6 +1,6 @@
 <h1 align = "center"> Hey! I am Aditya.👋</h1>
 <h3 align="center">A full stack web developer, student and tech enthusiast.</h3>
-<h3 align="center">Languages and tools I use.</h3>
+<h3 align="center">Languages and tools I use:</h3>
 
 
 <div align="center" style="text-align=center;">
