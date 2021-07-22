@@ -1,6 +1,6 @@
 ## Hey! I am Aditya.👋
 
-<h3 style="text-align: center">A full stack web developer, student and tech enthusiast.</h3>
+<h3 style="text-align:center;">A full stack web developer, student and tech enthusiast.</h3>
 
 ### Languages and Tools:
 
