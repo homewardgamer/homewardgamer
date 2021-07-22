@@ -1,5 +1,6 @@
 ## Hey! I am Aditya.👋
 
+### A full stack web developer, student and tech enthusiast.
 
 ### Languages and Tools:
 
