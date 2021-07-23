@@ -1,5 +1,5 @@
 <h1 align = "center"> Hey! I am Aditya. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px"></h1>
-<h3 align="center">A full stack web developer, student and tech enthusiast.</h3>
+<h3 align="center">A full stack Web developer and a tech enthusiast. </h3>
 <h3 align="center">Languages and tools I use:</h3>
 
 
