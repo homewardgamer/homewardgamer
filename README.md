@@ -1,4 +1,4 @@
-# <img height="60" src="https://github.com/homewardgamer/homewardgamer/blob/main/hello.gif" />
+# <img height="100" src="https://github.com/homewardgamer/homewardgamer/blob/main/hello.gif" />
 <h1 align = "center">  I am Aditya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px"></h1> 
 <h3 align="center">A Full Stack Web Developer and a Tech Enthusiast. </h3>
 <h3 align="center">Languages and tools I use:</h3>
