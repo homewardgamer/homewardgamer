@@ -1,6 +1,7 @@
 <h3 align = "center"> <img height="100" src="https://github.com/homewardgamer/homewardgamer/blob/main/hello.gif" /></h3>
 <h1 align = "center">  I am Aditya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px"></h1> 
 <h3 align="center">A Full Stack Web Developer and a Tech Enthusiast. </h3>
+
 <h3 align="center">Languages and tools I use:</h3>
 <div align="center" style="text-align=center; background-color:white">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a> 
